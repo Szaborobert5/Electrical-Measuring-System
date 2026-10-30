@@ -66,4 +66,11 @@ Display_Screens.launch        Run configuration
 Display_Screens_Debug.launch  Debug configuration
 ```
 
+## Testing
+
+<p align="center">
+  <img src="https://github.com/Szaborobert5/Electrical-Measuring-System/blob/main/media/PCB_video.gif" width="45%" />
+  <img src="media/PCB_IRL.jpg" width="45%" />
+</p>
+
 
