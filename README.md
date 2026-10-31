@@ -13,7 +13,7 @@ The system is divided in 4 sub-systems.
 It consists of the following :
 
 - Power supply section
-- Microntroller STM32
+- Microcontroller STM32
 - Measuring chip ATM90E26
 - OLED Diplay
 
